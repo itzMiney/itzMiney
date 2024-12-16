@@ -9,3 +9,5 @@ Mainly do some funny Web Server stuff on NGiNX. Mostly doing frontend stuff but 
 - **Languages**: HTML, CSS, Go, JavaScript, Java
 - **Databases**: MySQL/MariaDB
 - **Tools**: Git, Docker, VSCode, WebStorm, IntelliJ
+
+![Perfectly working cow](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
