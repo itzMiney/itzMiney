@@ -4,6 +4,8 @@ I'm Michael, some 20 year old Austrian goof 🇦🇹
 
 Mainly do some funny Web Server stuff on NGiNX. Mostly doing frontend stuff but also dabbling into backend a bit, I do know my way around MySQL/MariaDB fairly well
 
+My GitHub Profile Pictures are usually from cat-milk's [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Repository
+
 ### 🧰 Tech Stack
 - **Web Servers**: NGiNX
 - **Languages**: HTML, CSS, Go, JavaScript, Java
