@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Michael, some 20 year old Austrian goof 🇦🇹
+I'm Michael, some 21 year old Austrian goof 🇦🇹
 
 Mainly do some funny Web Server stuff on NGiNX. Mostly doing frontend stuff but also dabbling into backend a bit, I do know my way around MySQL/MariaDB fairly well
 
