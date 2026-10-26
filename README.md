@@ -11,7 +11,7 @@ Have some fancy stats graph thing:
 since like.. those are cool and all, and everyone seems to have these for some reason
 
 <sup>(A lot of my most active projects are no longer on GitHub and have moved to my own self-hosted Gitea instance on https://git.itzminey.dev btw)</sup>
-## about_
+## about
 I mess around a lot with coding stuff, and sometimes the stuff I make also works!! If it does, then do not question it. It just works and it will never be touched again alright?
 
 Usually I like to do web frontend stuff, but also dabbling into backend stuff a bit. I do know my way around MySQL/MariaDB fairly well too and like to do some proxy wizardy and try to at least somewhat get how subnetting works  <sub><i>maybe some day...</i></sub>
@@ -20,7 +20,7 @@ Often you can also find me on the [r/TechSupport Discord Server](https://discord
 
 Sometimes I also help out in maintaining the [rTS wiki](https://github.com/r-Techsupport/rTS_Wiki) too
 
-### Some stuff I like to use
+## some stuff I like to use
 - **Web Stuff**: Angular, NGiNX <sub>(who tf decided to make it pronounce as <i>"eNGiNe X"</i> )</sub>
 - **Mail**: Postfix, Dovecot, SpamAssasin, OpenDMARC
 - **Languages**: Bash, JavaScript/TypeScript  <sub><sub>and <i>maaaybe</i> also C soon</sup></sub>
