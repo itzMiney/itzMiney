@@ -1,4 +1,4 @@
-<p align=center><a href="https://itzminey.dev" target="_blank"><img src="https://files.itz.sh/logo_new.png" alt="Fancy lil Logo" height=125 width=auto></a></img></p>
+<p align=center><a href="https://itzminey.dev" target="_blank"><img src="https://cdn.itz.sh/logo/base.png" alt="Fancy lil Logo" height=125 width=auto></a></img></p>
 
 # hello there <img src="https://camo.githubusercontent.com/36065665e2ade05d87ed9fd82d965af8756f4b7ee42e63aa8a1dea8a6295b6f3/68747470733a2f2f692e696d6775722e636f6d2f6658594b5535712e706e67" height=32 width=auto></img>
 
