@@ -14,7 +14,7 @@ since like.. those are cool and all, and everyone seems to have these for some r
 ## about
 I mess around a lot with coding stuff, and sometimes the stuff I make also works!! If it does, then do not question it. It just works and it will never be touched again alright?
 
-Usually I like to do web frontend stuff, but also dabbling into backend stuff a bit. I do know my way around MySQL/MariaDB fairly well too and like to do some proxy wizardy and try to at least somewhat get how subnetting works  <sub><i>maybe some day...</i></sub>
+Usually I like to do web frontend stuff, but also dabbling into backend stuff a bit. I do know my way around MySQL/MariaDB fairly well too and like to do some proxy wizardry and try to at least somewhat get how subnetting works  <sub><i>maybe some day...</i></sub>
 
 Often you can also find me on the [r/TechSupport Discord Server](https://discord.gg/r-techsupport-749314018837135390) fixing stuff that is not as fucked as me :D
 
